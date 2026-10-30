@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+output/
+
+# Local game assets and generated exports
+*.mmb
+*.cameldata
+*.editordata
+*.manimsys
+*.anim
+*.glb
+*.textures.csv
+*.report.json
+examples/
+.DS_Store
